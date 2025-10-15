@@ -1,7 +1,7 @@
 ## NYT Data Engineering Project
 
 ### Architecture
- ![Architecture Diagram](https://github.com/Sathvika2721/The-NewYork-Times-Data-Pipeline/blob/main/Architecture.pdf)
+ ![Architecture](https://github.com/Sathvika2721/The-NewYork-Times-Data-Pipeline/blob/main/Architecture.pdf)
 
  
 # Project Overview
