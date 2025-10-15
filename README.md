@@ -1,7 +1,7 @@
 ## NYT Data Engineering Project
 
 ### Architecture
- ![Architecture](Architecture.pdf)
+ ![Architecture Diagram](https://github.com/Sathvika2721/The-NewYork-Times-Data-Pipeline/blob/main/System_Architecture.png)
 
  
 # Project Overview
@@ -48,7 +48,5 @@ This project demonstrates how to build an efficient, containerized data system c
 1. Extract data from NYT Developer API (Books and Articles endpoints).
 2. Store the raw and cleaned data in PostgreSQL tables.
 3. Use SQLAlchemy to define schemas and manage database interactions.
-
-Serve processed data through FastAPI endpoints.
-
-Containerize the application using Docker for easy deployment and scalability.
+4. Serve processed data through FastAPI endpoints.
+5. Containerize the application using Docker for easy deployment and scalability.
